@@ -1,0 +1,4 @@
+084838714af5f5177135a93d873e55dcafce6549c89e13e278a799f8ec1a1368  nanominer-windows-3.6.8.zip
+da8291d867a6e8cd501ba7b32cc4a159657d48f2e8a31edbecf929166f9c4ca7  nanominer-windows-3.6.8-cuda11.zip
+dc0ec5fe9769a383ad31e6a66b93aeb0b42654bf5202b7114a3de2b0c1ab4db8  nanominer-linux-3.6.8.tar.gz
+5670113648ea76f7e34ca1da2d2b319658f02d1f0eb0ffaf57af9ca56b150525  nanominer-linux-3.6.8-cuda11.tar.gz
